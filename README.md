@@ -58,4 +58,4 @@ installable as a PWA, with a file store locally and Redis on Vercel.
 ## Contact
 
 - Email: [amanbn@icloud.com](mailto:amanbn@icloud.com)
-- LinkedIn: [aman-bansal-952093328](https://www.linkedin.com/in/aman-bansal-952093328)
+- LinkedIn: [amanbansal](https://www.linkedin.com/in/amanbansal)
